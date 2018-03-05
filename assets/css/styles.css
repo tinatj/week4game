@@ -1,0 +1,22 @@
+body { 
+background-color: turquoise;
+
+}
+.thumbnail{
+    width: 244px;
+    height:220px;
+}
+#number-to-guess {
+    color: aqua;
+  }
+  .container {
+    width: 300px;
+    height: 300px;
+  }
+#header 
+{
+margin-bottom: 20px;
+font-size: 40px;
+font-style: italic;
+margin-left: 10px;
+}
